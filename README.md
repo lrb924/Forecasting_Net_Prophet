@@ -26,5 +26,26 @@
 * `forecasting_net_prophet.ipynb`: Notebook containing all data analysis and visualization
 
 ### Solution
-After visually analyzing the cluster analysis results, what is the impact of using fewer features to cluster the data using K-Means?
-* By using fewer features (PCA data), comparatively the clusters appear more obvious and the irrelevant noise was removed.
+Did the Google search traffic increase during the month that MercadoLibre released its financial results?
+* Yes, the search traffic increased during the month MercacdoLibre released its financial results.
+
+Does any day-of-week effect that you observe concentrate in just a few hours of that day?
+* Yes, there are a few hours (mainly in the middle of the night) on certain days that search traffic was increased and concentrated for that day.
+
+Does the search traffic tend to increase during the winter holiday period (weeks 40 through 52)?
+* Yes, the search traffic increased during weeks 40 through 52.
+
+Do both time series indicate a common trend that’s consistent with the narrative that both e-commerce and search traffic increased after the initial shock to global financial markets?
+* Yes, when the stock price went down so did search traffic. The opposite was also true around mid-May 2020: when the closing price increased, the search traffic also increased.
+
+Does a predictable relationship exist between the lagged search traffic and the stock volatility or between the lagged search traffic and the stock price returns?
+* A predictable relationship exists between the lagged search traffic and the stock price returns.
+
+What time of day exhibits the greatest popularity?
+* Around midnight
+
+Which day of the week gets the most search traffic?
+* Tuesdays
+
+What's the lowest point for search traffic in the calendar year?
+* Around mid-October
