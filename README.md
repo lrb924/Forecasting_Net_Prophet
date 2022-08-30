@@ -22,5 +22,9 @@
   * Create a Time Series Model with Prophet
 
 ### Files Navigation
-* `crypto_investments.ipynb`: Notebook containing all data analysis and visualization
-* `crypto_market_data.csv`: Provided csv file containing crypto market data used in Notebook
+* Resources: Directory containing all necessary csv files
+* `forecasting_net_prophet.ipynb`: Notebook containing all data analysis and visualization
+
+### Solution
+After visually analyzing the cluster analysis results, what is the impact of using fewer features to cluster the data using K-Means?
+* By using fewer features (PCA data), comparatively the clusters appear more obvious and the irrelevant noise was removed.
