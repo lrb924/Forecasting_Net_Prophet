@@ -3,7 +3,7 @@
 ### Package Requirments
 
 `pip install x` where x is the below listed packages
-* pystan=="2.19
+* pystan=="2.19"
 * fbprophet
 * hvPlot
 * holoviews
